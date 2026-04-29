@@ -1,0 +1,12 @@
+{
+  "name": "projetos-de-pedro",
+  "version": "1.0.0",
+  "description": "Projetos de HTML e CSS",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve .",
+    "build": "echo 'Build complete'"
+  },
+  "keywords": ["html", "css", "vercel"],
+  "license": "ISC"
+}
