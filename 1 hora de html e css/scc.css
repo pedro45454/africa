@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400..700;1,400..700&family=Italiana&display=swap');
+#container-texto {
+    text-align: center;
+    padding: 2rem;
+    font-family: "Cabin", sans-serif;
+    background-color: hsl(60, 100%, 92%);
+    transform:translateY(-10px);
+    transition: transform 0.3s ease;
+    border-radius: 15px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.container-foto {
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    color: hsl(59, 58%, 19%);
+    
+    border-radius: 25px;
+    padding: 10px;
+    margin: 1rem;
+
+
+    display: inline-block;
+}
+body {
+    background-color: hsl(60, 100%, 95%);
+}
